@@ -10246,7 +10246,7 @@
             <docDate>1845</docDate>
             <epigraph xml:lang="cu">
                 <cit>
-                    <quote>Аще кто речетъ, яко люблю Бога, а брата своего ненавидитъ, ложь есть. </quote>
+                    <quote>Аще кто речетъ, яко люблю Бога, а брата своего ненавидитъ, ложь есть.</quote>
                     <bibl>Соборно[е] послание Иоанна. Глава 4, с. 20</bibl>
                 </cit>
             </epigraph>
@@ -10614,7 +10614,7 @@
         </div1>
         <div1 type="poem">
             <head>ДАВИДОВІ ПСАЛМИ</head>
-            <docDate>18xx</docDate>
+            <docDate>1845</docDate>
             <lg type="poem">
                 <head>1</head>
                 <lg type="stanza">
@@ -10950,7 +10950,7 @@
         </div1>
         <div1 type="poem">
             <head>МАЛЕНЬКІЙ МАР’ЯНІ</head>
-            <docDate>18xx</docDate>
+            <docDate>1845</docDate>
             <lg type="stanza">
                 <l>Рости, рости, моя пташко,</l>
                 <l>Мій маковий цвіте,</l>
@@ -10980,7 +10980,7 @@
         </div1>
         <div1 type="poem">
             <head>«МИНАЮТЬ ДНІ, МИНАЮТЬ НОЧІ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1845</docDate>
             <lg type="stanza">
                 <l>Минають дні, минають ночі,</l>
                 <l>Минає літо, шелестить</l>
@@ -11018,7 +11018,7 @@
         </div1>
         <div1 type="poem">
             <head>ТРИ ЛІТА</head>
-            <docDate>18xx</docDate>
+            <docDate>1845</docDate>
             <lg type="stanza">
                 <l>І день не день, і йде не йде,</l>
                 <l>А літа стрілою</l>
@@ -11124,7 +11124,7 @@
         </div1>
         <div1 type="poem">
             <head>«ЯК УМРУ, ТО ПОХОВАЙТЕ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1845</docDate>
             <lg type="stanza">
                 <l>Як умру, то поховайте</l>
                 <l>Мене на могилі</l>
@@ -11154,7 +11154,7 @@
         </div1>
         <div1 type="poem">
             <head>«ЗА ЩО МИ ЛЮБИМО БОГДАНА?..»</head>
-            <docDate>18xx</docDate>
+            <docDate>1845-1846</docDate>
             <lg type="stanza">
                 <l>За що ми любимо Богдана?</l>
                 <l>За те, що москалі його забули,</l>
@@ -11164,7 +11164,7 @@
         </div1>
         <div1 type="poem">
             <head>ЛІЛЕЯ</head>
-            <docDate>18xx</docDate>
+            <docDate>1846</docDate>
             <lg type="stanza">
                 <l>«За що мене, як росла я,</l>
                 <l>Люде не любили?</l>
@@ -11262,7 +11262,7 @@
         </div1>
         <div1 type="poem">
             <head>РУСАЛКА</head>
-            <docDate>18xx</docDate>
+            <docDate>1846</docDate>
             <lg type="stanza">
                 <l>«Породила мене мати</l>
                 <l>В високих палатах</l>
@@ -11332,7 +11332,7 @@
         </div1>
         <div1 type="poem">
             <head>ВІДЬМА</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Молюся, знову уповаю,</l>
                 <l>І знову сльози виливаю,</l>
@@ -12099,7 +12099,7 @@
         </div1>
         <div1 type="poem">
             <head>В КАЗЕМАТІ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <head type="dedication">Моїм соузникам посвящаю</head>
             <lg type="stanza">
                 <l>Згадайте, братія моя...</l>
@@ -12542,13 +12542,13 @@
         </div1>
         <div1 type="poem">
             <head>«НЕ СПАЛОСЯ, А НІЧ, ЯК МОРЕ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Не спалося, а ніч, як море.</l>
                 <l>(Хоч діялось не восени,</l>
                 <l>Так у неволі.) До стіни</l>
                 <l>Не заговориш ні про горе,</l>
-                <l>Ні про младенческие сны.</l>
+                <l><foreign xml:lang="ru">Ні про младенческие сны.</foreign></l>
                 <l>Верчуся, світу дожидаю,</l>
                 <l>А за дверима про своє</l>
                 <l>Солдатськеє нежитіє</l>
@@ -12556,6 +12556,7 @@
             </lg>
             <lg type="stanza"/>
             <!-- is this a dialog? -->
+            <foreign xml:lang="ru">
             <lg type="stanza">
                 <l>1</l>
                 <l>Така ухабиста собой,</l>
@@ -12565,6 +12566,7 @@
                 <l>Свезли в Калугу и забрили.</l>
                 <l>Так вот те случай-то какой!</l>
             </lg>
+            </foreign>
             <lg type="stanza"/>
             <lg type="stanza">
                 <l>2</l>
@@ -12642,7 +12644,7 @@
         <div1 type="poem">
             <head>КНЯЖНА</head>
             <head type="subtitle">Поема</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Зоре моя вечірняя,</l>
                 <l>Зійди над горою,</l>
@@ -13122,7 +13124,7 @@
         </div1>
         <div1 type="poem">
             <head>N. N. («Сонце заходить, гори чорніють...»)</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Сонце заходить, гори чорніють,</l>
                 <l>Пташечка тихне, поле німіє.</l>
@@ -13143,7 +13145,7 @@
         </div1>
         <div1 type="poem">
             <head>N. N. («Мені тринадцятий минало...»)</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Мені тринадцятий минало.</l>
                 <l>Я пас ягнята за селом.</l>
@@ -13201,7 +13203,7 @@
         </div1>
         <div1 type="poem">
             <head>«НЕ ГРІЄ СОНЦЕ НА ЧУЖИНІ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Не гріє сонце на чужині,</l>
                 <l>А дома надто вже пекло.</l>
@@ -13233,7 +13235,7 @@
         </div1>
         <div1 type="poem">
             <head>СОН («Гори мої високії...»)</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Гори мої високії,</l>
                 <l>Не так і високі,</l>
@@ -13422,7 +13424,7 @@
         </div1>
         <div1 type="poem">
             <head>ІРЖАВЕЦЬ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Наробили колись шведи</l>
                 <l>Великої слави,</l>
@@ -13534,7 +13536,7 @@
         </div1>
         <div1 type="poem">
             <head>N. N. («О думи мої! О славо злая!..»)</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>О думи мої! О славо злая!</l>
                 <l>За тебе марно я в чужому краю</l>
@@ -13565,7 +13567,7 @@
         </div1>
         <div1 type="poem">
             <head>ПОЛЯКАМ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Ще як були ми козаками,</l>
                 <l>А унії не чуть було,</l>
@@ -13605,7 +13607,7 @@
         </div1>
         <div1 type="poem">
             <head>ЧЕРНЕЦЬ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>У Києві на Подолі</l>
                 <l>Було колись... І ніколи</l>
@@ -13742,7 +13744,7 @@
         </div1>
         <div1 type="poem">
             <head>«ОДИН У ДРУГОГО ПИТАЄМ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Один у другого питаєм,</l>
                 <l>Нащо нас мати привела?</l>
@@ -13762,7 +13764,7 @@
         </div1>
         <div1 type="poem">
             <head>«САМОМУ ЧУДНО. А ДЕ Ж ДІТИСЬ?..»</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Самому чудно. А де ж дітись?</l>
                 <l>Що діяти і що почать?</l>
@@ -13781,7 +13783,7 @@
         </div1>
         <div1 type="poem">
             <head>«ОЙ СТРІЧЕЧКА ДО СТРІЧЕЧКИ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Ой стрічечка до стрічечки</l>
                 <l>Мережаю три ніченьки,</l>
@@ -13803,7 +13805,7 @@
         </div1>
         <div1 type="poem">
             <head>ХУСТИНА</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Чи то на те Божа воля?</l>
                 <l>Чи такая її доля?</l>
@@ -13887,7 +13889,7 @@
         </div1>
         <div1 type="poem">
             <head>А. О. КОЗАЧКОВСЬКОМУ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>Давно те діялось. Ще в школі,</l>
                 <l>Таки в учителя-дяка,</l>
@@ -14054,7 +14056,7 @@
         </div1>
         <div1 type="poem">
             <head>МОСКАЛЕВА КРИНИЦЯ</head>
-            <docDate>18xx</docDate>
+            <docDate>1847</docDate>
             <head type="dedication">Я. Кухаренку</head>
             <lg type="stanza">
                 <l>— Не варт, єй-богу, жить на світі!..</l>
@@ -14405,8 +14407,9 @@
             </lg>
         </div1>
         <div1 type="poem">
-            <head>Привикне, кажуть, собака за возом бігти, то біжить і за саньми.</head>
-            <docDate>18xx</docDate>
+            <head>«ТО ТАК І Я ТЕПЕР ПИШУ...»</head>
+            <epigraph>Привикне, кажуть, собака за возом бігти, то біжить і за саньми.</epigraph>
+            <docDate>1847</docDate>
             <lg type="stanza">
                 <l>То так і я тепер пишу,</l>
                 <l>Папір тілько, чорнило трачу...</l>
@@ -14432,7 +14435,7 @@
         </div1>
         <div1 type="poem">
             <head>«А НУМО ЗНОВУ ВІРШУВАТЬ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>А нумо знову віршувать.</l>
                 <l>Звичайне, нишком. Нумо знову,</l>
@@ -14469,7 +14472,7 @@
         </div1>
         <div1 type="poem">
             <head>ВАРНАК</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Тиняючи на чужині</l>
                 <l>Понад Елеком, стрів я діда</l>
@@ -14667,7 +14670,7 @@
         </div1>
         <div1 type="poem">
             <head>«ОЙ ГЛЯНУ Я, ПОДИВЛЮСЯ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Ой гляну я, подивлюся</l>
                 <l>На той степ, на поле;</l>
@@ -14689,7 +14692,7 @@
         </div1>
         <div1 type="poem">
             <head>«ТА НЕ ДАЙ, ГОСПОДИ, НІКОМУ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Та не дай, Господи, нікому,</l>
                 <l>Як мені тепер, старому,</l>
@@ -14705,7 +14708,7 @@
         </div1>
         <div1 type="poem">
             <head>«У Бога за дверми лежала сокира»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>У Бога за дверми лежала сокира.</l>
                 <l>(А Бог тойді з Петром ходив</l>
@@ -14786,7 +14789,7 @@
         </div1>
         <div1 type="poem">
             <head>[ЦАРІ]</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Старенька сестро Аполлона,</l>
                 <l>Якби ви часом хоч на час</l>
@@ -15063,7 +15066,7 @@
         </div1>
         <div1 type="poem">
             <head>«ДОБРО, У КОГО Є ГОСПОДА...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Добро́, у кого є господа,</l>
                 <l>А в тій господі є сестра</l>
@@ -15093,7 +15096,7 @@
         </div1>
         <div1 type="poem">
             <head>ТИТАРІВНА</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Давно се діялось колись,</l>
                 <l>Ще як борці у нас ходили</l>
@@ -15337,8 +15340,8 @@
             </lg>
         </div1>
         <div1 type="poem">
-            <head>* Оренбург. губ.</head>
-            <docDate>18xx</docDate>
+            <head>Ну що б, здавалося, слова...</head>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Ну що б, здавалося, слова...</l>
                 <l>Слова та голос — більш нічого.</l>
@@ -15394,7 +15397,7 @@
         </div1>
         <div1 type="poem">
             <head>«МОВ ЗА ПОДУШНЕ, ОСТУПИЛИ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Мов за подушне, оступили</l>
                 <l>Оце мене на чужині</l>
@@ -15413,7 +15416,7 @@
         </div1>
         <div1 type="poem">
             <head>П. С.</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Не жаль на злого, коло його</l>
                 <l>І слава сторожем стоїть.</l>
@@ -15455,7 +15458,7 @@
         </div1>
         <div1 type="poem">
             <head>Г. З.</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Немає гірше, як в неволі</l>
                 <l>Про волю згадувать. А я</l>
@@ -15527,7 +15530,7 @@
         </div1>
         <div1 type="poem">
             <head>«ЯКБИ ЗОСТРІЛИСЯ МИ ЗНОВУ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Якби зострілися ми знову,</l>
                 <l>Чи ти злякалася б, чи ні?</l>
@@ -15550,7 +15553,7 @@
         </div1>
         <div1 type="poem">
             <head>[МАРИНА]</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Неначе цвяшок, в серце вбитий,</l>
                 <l>Оцю Марину я ношу.</l>
@@ -15917,7 +15920,7 @@
         </div1>
         <div1 type="poem">
             <head>ПРОРОК</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Неначе праведних дітей,</l>
                 <l>Господь, любя отих людей,</l>
@@ -15948,7 +15951,7 @@
         </div1>
         <div1 type="poem">
             <head>[СИЧІ]</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>На ниву в жито уночі,</l>
                 <l>На полі, на роздоллі,</l>
@@ -15983,7 +15986,7 @@
         </div1>
         <div1 type="poem">
             <head>«МЕЖ СКАЛАМИ, НЕНАЧЕ ЗЛОДІЙ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>Меж скалами, неначе злодій,</l>
                 <l>Понад Дністром іде вночі</l>
@@ -16175,7 +16178,7 @@
         </div1>
         <div1 type="poem">
             <head>«ЗА СОНЦЕМ ХМАРОНЬКА ПЛИВЕ...»</head>
-            <docDate>18xx</docDate>
+            <docDate>1848</docDate>
             <lg type="stanza">
                 <l>За сонцем хмаронька пливе,</l>
                 <l>Червоні поли розстилає</l>
