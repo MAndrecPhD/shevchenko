@@ -3768,8 +3768,7 @@
                 <l>В холодку заснути.</l>
             </lg>
         </div1>
-        
-        <!-- start here  -->        
+             
         <div1 type="poem">
             <head>ВІДЬМА</head>
             <docDate>1858</docDate>
@@ -4549,10 +4548,7 @@
         <div1 type="poem">
             <head>МАРКУ ВОВЧКУ</head>
             <docDate>1859</docDate>
-            <lg type="stanza">
-                <l>На пам’ять 24 генваря 1859</l>
-            </lg>
-            <lg type="stanza"/>
+            <head type="dedication">На пам’ять 24 генваря 1859</head>
             <lg type="stanza">
                 <l>Недавно я поза Уралом</l>
                 <l>Блукав і Господа благав,</l>
@@ -4578,9 +4574,7 @@
         <div1 type="poem">
             <head>ІСАІЯ. ГЛАВА 35</head>
             <docDate>1859</docDate>
-            <lg type="stanza">
-                <l>(Подражаніє)</l>
-            </lg>
+                <head type="subtitle">(Подражаніє)</head>
             <lg type="stanza">
                 <l>Радуйся, ниво неполитая!</l>
                 <l>Радуйся, земле, не повитая</l>
@@ -4666,11 +4660,8 @@
         <div1 type="poem">
             <head>НЕВОЛЬНИК</head>
             <docDate>1859</docDate>
-            <lg type="stanza">
-                <l>Поема</l>
-            </lg>
-            <lg type="stanza"/>
-            <lg type="stanza">
+            <head type="subtitle">Поема</head>
+            <lg type="stanza"> <!-- This is obviously a heading, but how far down does it go? -->
                 <l>ПОСВЯЩЕНІЄ</l>
             </lg>
             <lg type="stanza">
@@ -5183,7 +5174,7 @@
             <lg type="stanza"/>
             <lg type="stanza"/>
             <lg type="stanza">
-                <l>ДУМА</l>
+                <l>ДУМА</l> <!-- Another heading... -->
             </lg>
             <lg type="stanza">
                 <l>У неділю вранці-рано</l>
@@ -5433,11 +5424,7 @@
         <div1 type="poem">
             <head>«ОЙ ПО ГОРІ РОМАН ЦВІТЕ...»</head>
             <docDate>1859</docDate>
-            <head type="dedication">Федору Івановичу Черненку.
-                
-                
-                <lb/>
-                На пам’ять 22 сентября 1859 року</head>
+            <head type="dedication">Федору Івановичу Черненку.<lb/>На пам’ять 22 сентября 1859 року</head>
             <lg type="stanza">
                 <l>Ой по горі роман цвіте,</l>
                 <l>Долиною козак іде</l>
