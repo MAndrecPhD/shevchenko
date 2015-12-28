@@ -2429,14 +2429,8 @@
         <div1 type="poem">
             <head>МОСКАЛЕВА КРИНИЦЯ</head>
             <docDate>1857</docDate>
-            <lg type="stanza">
-                <l>Поема</l>
-            </lg>
-            <head type="dedication">Я. Кухаренкові.
-                
-                
-                <lb/>
-                На пам’ять 7 мая 1857 року</head>
+            <head type="subtitle">Поема</head>
+            <head type="dedication">Я. Кухаренкові.<lb/>На пам’ять 7 мая 1857 року</head>
             <lg type="stanza">
                 <l>Не на Вкраїні, а далеко,</l>
                 <l>Аж за Уралом, за Елеком,</l>
