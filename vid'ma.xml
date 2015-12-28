@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <dum>
-	            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Цигане</l>
+                <speaker>Цигане</speaker>
                 <l>А відкіля ти, молодице?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Хто, я?</l>
             </lg>
             <lg type="stanza">
@@ -18,30 +16,26 @@
                 <l>А як стала стара баба,</l>
                 <l>Цілували б, була б рада.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Співуча, нічого сказать.</l>
                 <l>Якби собі таку достать,</l>
                 <l>Та ще й з медведем...</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Я співаю.</l>
                 <l>Чи то сижу, чи то гуляю,</l>
                 <l>Все співаю, все співаю,</l>
                 <l>Уже забула говорить...</l>
                 <l>А перше добре говорила.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Де ж ти була, що заблудила?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Хто, я? чи ти?</l>
             </lg>
             <lg type="stanza">
@@ -61,25 +55,21 @@
                 <l>Піду, без мене не зуміють</l>
                 <l>І в домовину положить...</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Цигане</l>
+                <speaker>Цигане</speaker>
                 <l>Не йди, небого, будь ти з нами.</l>
                 <l>У нас, єй-богу, добре жить.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>А діти єсть у вас?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Цигане</l>
+                <speaker>Цигане</speaker>
                 <l>Немає. </l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Кого ж годуєте єсте?</l>
                 <l>Кого ви спати кладете?</l>
                 <l>Кого колишете вночі?</l>
@@ -90,15 +80,13 @@
                 <l>Де не піду, й вони за мною,</l>
                 <l>Вони з’їдять мене колись...</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Цигане</l>
+                <speaker>Цигане</speaker>
                 <l>Не плач, небого, не журись.</l>
                 <l>У нас дітей нема й заводу.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Хоч з гори та в воду.</l>
                 <l>І відьма тяжко заридала.</l>
                 <l>Цигане мовчки дивувались,</l>
@@ -130,26 +118,22 @@
                 <l>Позирає на приблуду</l>
                 <l>Й на подзвін не дбає.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Чому не ляжеш, не спочинеш?</l>
                 <l>Зірниця сходить, подивись.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Дивилась я, вже ти дивись.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Ми рано рушимо, покинем,</l>
                 <l>Як не проспишся.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Не просплюсь.</l>
                 <l>Я вже ніколи не просплюсь.</l>
                 <l>Отак де-небудь і загину</l>
@@ -211,15 +195,13 @@
                 <l>Найти де-небудь! Ти не знаєш,</l>
                 <l>Чи є в Туреччині война?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Була колись, тепер нема.</l>
                 <l>Умер найстарший старшина.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>А я думала, що й досі...</l>
                 <l>Аж уже немає.</l>
                 <l>Слухай лишень, скажу тобі,</l>
@@ -307,14 +289,12 @@
                 <l>Якби таку суку</l>
                 <l>Тобі дочку. Що б зробив?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Єй-богу, не знаю.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Та мовчи вже, бо забуду.</l>
                 <l>Потім не згадаю.</l>
                 <l>Дітей, бачся, годувала</l>
@@ -340,25 +320,21 @@
                 <l>Сина оженила...</l>
                 <l>І... гу...</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Не скигли, бо ти всіх побудиш.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Хіба я скиглю, навісний?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Та добре, добре. Що дальш буде?</l>
                 <l>Розказуй дальше.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Що даси?</l>
                 <l>Навариш завтра мамалиги?</l>
                 <l>Я кукурузи принесу.</l>
@@ -384,14 +360,12 @@
                 <l>Чи твої цигане</l>
                 <l>Всі поснули?</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Циган</l>
+                <speaker>Циган</speaker>
                 <l>Всі поснули.</l>
             </lg>
-            <lg type="stanza"/>
             <lg type="stanza">
-                <l>Відьма</l>
+                <speaker>Відьма</speaker>
                 <l>Бо щоб не почули</l>
                 <l>Мого слова. Страшно буде.</l>
                 <l>І ти, старий друже,</l>
