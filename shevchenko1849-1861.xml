@@ -2885,8 +2885,6 @@
                 </lg>
                 </lg>
         </div1>
-                <!-- start here -->
-
         <div1 type="poem">
             <head>НЕОФІТИ</head>
             <docDate>1857</docDate>
@@ -3770,12 +3768,12 @@
                 <l>В холодку заснути.</l>
             </lg>
         </div1>
+        
+        <!-- start here  -->        
         <div1 type="poem">
             <head>ВІДЬМА</head>
             <docDate>1858</docDate>
-            <lg type="stanza">
-                <l>Поема</l>
-            </lg>
+            <head type="subtitle">Поема</head>
             <lg type="stanza">
                 <l>Молюся, знову уповаю,</l>
                 <l>І знову сльози виливаю,</l>
