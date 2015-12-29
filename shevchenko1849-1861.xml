@@ -5591,19 +5591,13 @@
         <div1 type="poem">
             <head>МАРІЯ</head>
             <docDate>1859</docDate>
-            <lg type="stanza">
-                <l>(Поема)</l>
-            </lg>
+			<head type="subtitle">(Поема)</head>
             <epigraph>
                 <cit>
                     <quote>
                         <foreign xml:lang="cu">Радуйся, Ты бо обновила еси зачатыя студно.</foreign>
                     </quote>
-                    <bibl>Акафіст Пресвятій Богородиці.
-                        
-                        
-                        <lb/>
-                        Ікос 10.</bibl>
+                    <bibl>Акафіст Пресвятій Богородиці.<lb/>Ікос 10.</bibl>
                 </cit>
             </epigraph>
             <lg type="stanza">
@@ -6417,9 +6411,7 @@
             <head>ПОДРАЖАНІЄ ІЄЗЕКІЇЛЮ. ГЛАВА 19</head>
             <docDate>1859</docDate>
             <lg type="stanza">
-                <l>ГЛАВА 19</l>
-            </lg>
-            <lg type="stanza">
+                <head>ГЛАВА 19</head>
                 <l>Восплач, Пророче, Сине Божий!</l>
                 <l>І о князях, і о вельможах,</l>
                 <l>І о царях отих. І рци:</l>
@@ -6475,9 +6467,7 @@
         <div1 type="poem">
             <head>ОСІЯ. ГЛАВА XIV</head>
             <docDate>1859</docDate>
-            <lg type="stanza">
-                <l>Подражаніє</l>
-            </lg>
+            <head type="subtitle">Подражаніє</head>
             <lg type="stanza">
                 <l>Погибнеш, згинеш, Україно,</l>
                 <l>Не стане знаку на землі,</l>
@@ -6744,6 +6734,9 @@
                 <l>Нам любов меж людьми.</l>
             </lg>
         </div1>
+        
+        <!-- This is a total disaster. Need to consult original. -->
+        
         <div1 type="poem">
             <head>[ПЕРЕСПІВИ ЗІ «СЛОВА О ПОЛКУ ІГОРЕВІМ»]</head>
             <docDate>1860</docDate>
@@ -7083,6 +7076,7 @@
                 <l>В хатині тихій і веселій.</l>
             </lg>
         </div1>
+        <!-- start here -->
         <div1 type="poem">
             <head>«БАРВІНОК ЦВІВ І ЗЕЛЕНІВ...»</head>
             <docDate>1860</docDate>
