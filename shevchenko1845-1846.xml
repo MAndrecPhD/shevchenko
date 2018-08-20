@@ -1494,10 +1494,10 @@
             </sp>
             <sp>
               <speaker>3</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>Через мост идет черт,</l>
-                <l>А коза по воде.</l>
-                <l>Быть беде. Быть беде.</l>
+              <lg type="stanza">
+                <l xml:lang="ru">Через мост идет черт,</l>
+                <l xml:lang="ru">А коза по воде.</l>
+                <l xml:lang="ru">Быть беде. Быть беде.</l>
               </lg>
             </sp>
             <lg type="stanza">
@@ -1527,10 +1527,10 @@
             </sp>
             <sp>
               <speaker>[3]</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>Э... сестрица, много:</l>
-                <l>Три указа накаркала</l>
-                <l>На одну дорогу...</l>
+              <lg type="stanza">
+                <l xml:lang="ru">Э... сестрица, много:</l>
+                <l xml:lang="ru">Три указа накаркала</l>
+                <l xml:lang="ru">На одну дорогу...</l>
               </lg>
             </sp>
             <sp>
@@ -1542,9 +1542,9 @@
             </sp>
             <sp>
               <speaker>3</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>Да шесть тысяч в одной версте</l>
-                <l>Душ передушила...</l>
+              <lg type="stanza">
+                <l xml:lang="ru">Да шесть тысяч в одной версте</l>
+                <l xml:lang="ru">Душ передушила...</l>
               </lg>
             </sp>
             <sp>
@@ -1636,12 +1636,12 @@
             </sp>
             <sp>
               <speaker>3</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>И я таки пожила:</l>
-                <l>С татарами помутила,</l>
-                <l>С мучителем покутила,</l>
-                <l>С Петрухою попила</l>
-                <l>Да немцам запродала.</l>
+              <lg type="stanza">
+                <l xml:lang="ru">И я таки пожила:</l>
+                <l xml:lang="ru">С татарами помутила,</l>
+                <l xml:lang="ru">С мучителем покутила,</l>
+                <l xml:lang="ru">С Петрухою попила</l>
+                <l xml:lang="ru">Да немцам запродала.</l>
               </lg>
             </sp>
             <sp>
@@ -1731,9 +1731,9 @@
             </sp>
             <sp>
               <speaker>3</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>Я царевыми чинами</l>
-                <l>Скручу ему руки!..</l>
+              <lg type="stanza">
+                <l xml:lang="ru">Я царевыми чинами</l>
+                <l xml:lang="ru">Скручу ему руки!..</l>
               </lg>
             </sp>
             <sp>
@@ -1784,10 +1784,10 @@
             </sp>
             <sp>
               <speaker>3</speaker>
-              <lg type="stanza" xml:lang="ru">
-                <l>Как хвачу да помчу,</l>
-                <l>В самый ад полечу</l>
-                <l>Стрелою. </l>
+              <lg type="stanza">
+                <l xml:lang="ru">Как хвачу да помчу,</l>
+                <l xml:lang="ru">В самый ад полечу</l>
+                <l xml:lang="ru">Стрелою. </l>
               </lg>
             </sp>
           </div3>
@@ -2692,8 +2692,8 @@
       <div1 type="poem">
         <head>КАВКАЗ</head>
         <docDate>1845</docDate>
-        <head type="dedication">
-                <foreign xml:lang="ru">Искреннему моему Якову де Бальмену</foreign>
+        <head type="dedication" xml:lang="ru">
+          Искреннему моему Якову де Бальмену
             </head>
         <lg type="stanza">
           <l>За горами гори, хмарою повиті,</l>
