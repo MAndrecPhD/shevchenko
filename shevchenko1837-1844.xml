@@ -2594,9 +2594,7 @@
             <l>Із Польщі втікають,</l>
             <l>Та слухали, як шляхетство</l>
             <l>Навісне гукає.</l>
-            <l>
-                        <foreign xml:lang="pl">«Nie pozwalam! Nie pozwalam!»</foreign>
-                    </l>
+            <l xml:lang="pl">«Nie pozwalam! Nie pozwalam!»</l>
             <l>Шляхта репетує,</l>
             <l>А магнати палять хати, </l>
             <l>Шабельки гартують.</l>
@@ -2911,12 +2909,8 @@
             <l>Конфедерат п’яний</l>
             <l>Нездужа встать, а курника,</l>
             <l>П’яний і веселий:</l>
-            <l>
-                        <foreign xml:lang="pl">«My żyemy, my żyjemy,</foreign>
-                    </l>
-            <l>
-                        <foreign xml:lang="pl">Polska nie zginęła».</foreign>
-                    </l>
+            <l xml:lang="pl">«My żyemy, my żyjemy,</l>
+            <l xml:lang="pl">Polska nie zginęła».</l>
           </lg>
         </div2>
         <div2 type="section">
